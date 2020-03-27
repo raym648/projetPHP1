@@ -1,4 +1,6 @@
 
+
+
     <div class="dummy_page">Mobile responsive footer</div>
 
 <!-- FOOTER START -->
@@ -14,7 +16,7 @@
             <h1>Our Company</h1>
             <ul>
                 <li><a href="https://teamtreehouse.com/about " target="_blank">About Us</a></li>
-                <li><a href="https://teamtreehouse.com/support " target="_blank">Contact Us</a></li>
+                <li><a href="./contact_form.php" target="_blank">Contact Us</a></li>
                 <li><a href="https://teamtreehouse.com/community " target="_blank">Community</a></li>
                 <li><a href="https://teamtreehouse.com/stories " target="_blank">Treehouse stories</a></li>
                 <li><a href="https://teamtreehouse.com/perks " target="_blank">Student Perks</a></li>
@@ -50,15 +52,6 @@
                 <li><a href="https://teamtreehouse.com/tracks/ios-development-with-objectivec " target="_blank">iOS Development</a></li>
                 <li><a href="https://teamtreehouse.com/tracks/beginning-android " target="_blank">Audroid Development</a></li>
                 <li><a href="https://teamtreehouse.com/tracks/starting-a-business " target="_blank">Starting a Business</a></li>
-            </ul>
-        </div>
-
-        <div class="col social">
-            <h1>Social</h1>
-            <ul>
-                <li><img src="https://svgshare.com/i/5fq.svg" width="32" style="width: 32px;" alt="image 1"></li>
-                <li><img src="https://svgshare.com/i/5eA.svg" width="32" style="width: 32px;" alt="image 2"></li>
-                <li><img src="https://svgshare.com/i/5f_.svg" width="32" style="width: 32px;" alt="image 3"></li>
             </ul>
         </div>
 

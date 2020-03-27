@@ -14,6 +14,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,423;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,423;1,500;1,600;1,700&display=swap" rel="stylesheet">
  
+    <meta name="description" content="Share-Buttons is a plugin based on jQuery to add share and contact buttons to your website.">
+  
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./css/contact-buttons.css">
+
     <link rel="stylesheet" href="./css/reset.css" type="text/css" />
     <link rel="stylesheet" href="./css/team-style.css" type="text/css" />
 

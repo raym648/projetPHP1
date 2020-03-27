@@ -10,7 +10,7 @@
     <a href="https://teamtreehouse.com/support" target="_blank">Support</a>
 
     <a href="./trial.php" target="_blank" class="right">Free Trial</a>
-    <a href="https://teamtreehouse.com/signin?return_to=%2F" target="_blank" class="right">Sign In</a>
+    <a href="./signin.php" class="right">Sign In</a>
 
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
@@ -70,11 +70,10 @@
 <div class="bottom-container">
     <div class="row">
         <div class="col">
-            <a href="#" style="color:white" class="btn">Sign up</a>
+            <a href="./modal_signup_form.php" style="color:white" class="btn">Sign up</a>
         </div>
         <div class="col">
             <a href="#" style="color:white" class="btn">Forgot password?</a>
         </div>
     </div>
 </div>
-
